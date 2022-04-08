@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8c65886-ab74-4f4d-ab69-78617766f93e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BootcampMELI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasico/BootCampJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasico/BootcampMELI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasico/javaBasico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starwarsapi/src/main/java/com/bootcampmeli/starwarsapi/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starwarsapi/src/main/java/com/bootcampmeli/starwarsapi/PersonagemDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starwarsapi/src/main/java/com/bootcampmeli/starwarsapi/PersonagemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starwarsapi/src/main/java/com/bootcampmeli/starwarsapi/PersonagemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starwarsapi/src/main/java/com/bootcampmeli/starwarsapi/StarwarsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w5exercicios/w5exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BootCampJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/Participante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/TesteCorrida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Basico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Cobradores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Deposito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Executivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/PagamentoServico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Saldo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Saque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Transacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/BancoInterfaces/Transferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/HashMapExe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/Pereciveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/PraticaExcecoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/TestaPessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/TestaProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/Vaca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/comerCarne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/abstractclass/comerPasto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/print/Curriculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/print/Documento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/print/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/print/Relatorio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/print/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/veiculo/Garagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/veiculo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BootCampJava/br/com/mariana/bootcamp/veiculo/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Participante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteCorrida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Basico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Cobradores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Deposito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Executivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/PagamentoServico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Saldo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Saque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Transacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/BancoInterfaces/Transferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/HashMapExe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/Pereciveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/PraticaExcecoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/TestaPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/TestaProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/Vaca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/comerCarne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/abstractclass/comerPasto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/print/Curriculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/print/Documento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/print/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/print/Relatorio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/print/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/veiculo/Garagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/veiculo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mariana/bootcamp/veiculo/Veiculo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27UAFqRDKVLIBXDJSNFcnWi3kcF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8c65886-ab74-4f4d-ab69-78617766f93e" name="Default Changelist" comment="" />
+      <created>1647970947019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647970947019</updated>
+      <workItem from="1647970949486" duration="60000" />
+      <workItem from="1649364191038" duration="503000" />
+      <workItem from="1649367090132" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
