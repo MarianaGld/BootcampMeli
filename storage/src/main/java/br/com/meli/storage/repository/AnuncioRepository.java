@@ -1,4 +1,4 @@
-package br.com.meli.storage.model.repository;
+package br.com.meli.storage.repository;
 
 import br.com.meli.storage.model.Anuncio;
 import org.springframework.data.jpa.repository.JpaRepository;
